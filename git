@@ -2,3 +2,5 @@ git commands
 cd
 mkdir
 touch
+config 
+push
